@@ -1,2 +1,2 @@
 Esto es un README
-<h1>TITULO</h1>
+<h1 style="background-color:blue">TITULO</h1>
